@@ -3,6 +3,10 @@
   "displayName": "px-to-tailwind",
   "description": "Converts px to Tailwind CSS spacing values.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehsanpo/px-to-tailwind"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },
