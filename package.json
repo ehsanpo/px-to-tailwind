@@ -3,6 +3,7 @@
   "displayName": "px-to-tailwind",
   "description": "Converts px to Tailwind CSS spacing values.",
   "version": "0.0.1",
+  "publisher": "ehsanpo",
   "repository": {
     "type": "git",
     "url": "https://github.com/ehsanpo/px-to-tailwind"
